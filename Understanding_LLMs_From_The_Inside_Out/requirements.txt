@@ -1,0 +1,8 @@
+# tiktoken — OpenAI's tokeniser (needed for exact token counting)
+tiktoken>=0.7.0
+
+# OpenAI SDK — for running the interactive examples
+openai>=1.30.0
+
+# Environment variable management
+python-dotenv>=1.0.0
